@@ -1,5 +1,6 @@
 # 🎉 Projeto Amigo Secreto
 
+![Captura de Tela](asses/Captura de Tela.png);
 <img src="Captura de Tela.png" alt="Imagem da tela principal do projeto"> 
 
 ## Sobre
